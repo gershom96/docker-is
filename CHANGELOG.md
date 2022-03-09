@@ -79,4 +79,8 @@ For detailed information on the tasks carried out during this release, please se
 [v5.10.0.4]: https://github.com/wso2/docker-is/compare/v5.10.0.3...v5.10.0.4
 [v5.10.0.3]: https://github.com/wso2/docker-is/compare/v5.10.0.2...v5.10.0.3
 [v5.10.0.2]: https://github.com/wso2/docker-is/compare/v5.10.0.1...v5.10.0.2
+<<<<<<< HEAD
 [v5.10.0.1]: https://github.com/wso2/docker-is/compare/v5.9.0.3...v5.10.0.1
+=======
+[v5.10.0.1]: https://github.com/wso2/docker-is/compare/v5.9.0.3...v5.10.0.1
+>>>>>>> c495408ff5afe71542020d83e1bc40c9af8a0df0
